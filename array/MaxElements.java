@@ -7,7 +7,6 @@ public class MaxElements {
 		maxElements(arr);
 
 	}
-	
 	public static void maxElements(int arr[]) {
 		int max= Integer.MIN_VALUE;
 		for(int i=0; i<arr.length;i++) {
